@@ -52,7 +52,8 @@
 ---
 
 #### 📂 الملفات في المشروع
-- Coffee Dashboard.pbix → ملف الاصلي (قابل للتعديل) Power BI  
-- Coffee Dashboard.pdf → نسخة داشبورد ثابتة (غير قابلة للتعديل)
+- https://github.com/Muna5abdullah/Coffee-Sales.Revenue-Dashboard/blob/main/Coffee%20Revenue%20Dashboard.pbix →ملف الاصلي (قابل للتعديل) Power BI  
+- https://github.com/Muna5abdullah/Coffee-Sales.Revenue-Dashboard/blob/main/Coffee%20revenue%20dashboard.pdf → نسخة داشبورد ثابتة (غير قابلة للتعديل)
 ---
+ -https://www.kaggle.com/datasets/halaturkialotaibi/coffee-bean-sales-dataset → مصدر البيانات 
  
